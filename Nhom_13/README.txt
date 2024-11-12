@@ -1,5 +1,5 @@
 Project sử dụng Python phiên bản 3.8.5-64 bit. 
-Chương trình được chạy trên hệ điều hành Ubuntu 20.04. 
+Chương trình được chạy trên hệ điều hành Windows, MacOs, Linux . 
 
 Phần 1: cài đặt thư viện
 File requirements.txt: tên các thư viện cần được cài đặt.
