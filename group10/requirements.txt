@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+textdistance
+keras
+scrapy
+kafka
